@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16fa2685-13b1-40a8-bb27-6200c91db7f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exo-6-html.html" afterDir="false" />
-    </list>
+    <list default="true" id="16fa2685-13b1-40a8-bb27-6200c91db7f8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,8 +57,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603733067262</updated>
-      <workItem from="1603733068324" duration="1131000" />
+      <workItem from="1603733068324" duration="1536000" />
     </task>
+    <task id="LOCAL-00001" summary="a finir">
+      <created>1603734565316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603734565316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a finir" />
+    <option name="LAST_COMMIT_MESSAGE" value="a finir" />
   </component>
 </project>
